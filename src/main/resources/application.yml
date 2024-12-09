@@ -1,0 +1,3 @@
+artifactory:
+  base-url: https://trialh3yw33.jfrog.io/
+  token: ${ACCESS_TOKEN}
